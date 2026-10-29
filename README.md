@@ -1,5 +1,7 @@
 # pyxpo-haptics
 
+[![CI](https://github.com/pyxpo/pyxpo-haptics/actions/workflows/ci.yml/badge.svg)](https://github.com/pyxpo/pyxpo-haptics/actions/workflows/ci.yml) [![PyPI](https://img.shields.io/pypi/v/pyxpo-haptics)](https://pypi.org/project/pyxpo-haptics/) [![Python](https://img.shields.io/pypi/pyversions/pyxpo-haptics)](https://pypi.org/project/pyxpo-haptics/) [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+
 Touch feedback for [pyxpo](https://github.com/pyxpo/pyxpo) apps, written in Python: impact taps, success and error
 buzzes, selection ticks, and the Android system haptic constants. The names follow
 [expo-haptics](https://docs.expo.dev/versions/latest/sdk/haptics/), in Python style.
